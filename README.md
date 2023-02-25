@@ -1,5 +1,7 @@
 # bittorrent-dht [![ci][ci-image]][ci-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
+# Write ur own "private" tracker here. 😐
+
 [ci-image]: https://github.com/webtorrent/bittorrent-dht/actions/workflows/ci.yml/badge.svg?branch=master
 [ci-url]: https://github.com/webtorrent/bittorrent-dht/actions/workflows/ci.yml
 [npm-image]: https://img.shields.io/npm/v/bittorrent-dht.svg
